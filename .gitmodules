@@ -1,0 +1,15 @@
+[submodule "bwa"]
+	path = bwa
+	url = git@github.com:bnovak32/bwa-cwl.git
+[submodule "samtools"]
+	path = samtools
+	url = git@github.com:bnovak32/samtools-cwl.git
+[submodule "picard"]
+	path = picard
+	url = git@github.com:bnovak32/picard-cwl.git
+[submodule "cutadapt"]
+	path = cutadapt
+	url = git@github.com:bnovak32/cutadapt-cwl.git
+[submodule "multiqc"]
+	path = multiqc
+	url = git@github.com:bnovak32/multiqc-cwl.git
